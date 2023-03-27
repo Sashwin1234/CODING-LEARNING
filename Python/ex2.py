@@ -1,3 +1,4 @@
+#program that wishes according to the gender
 import time
 hour = int(time.strftime('%H'))
 name=input("Please enter your name : ")
